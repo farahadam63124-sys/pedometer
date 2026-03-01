@@ -1,4 +1,6 @@
-scene.setBackgroundImage(assets.image`67`)
+scene.setBackgroundImage(img`
+    6 7 
+    `)
 let grass = sprites.create(img`
     ....88..........
     ....868.........
